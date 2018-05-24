@@ -1,4 +1,4 @@
 <?php
-header("Location: http://swistakchiro.com/lower-back-pain-treatment/");
+header("Location: https://www.coxdoor.com/");
 die();
 ?>
